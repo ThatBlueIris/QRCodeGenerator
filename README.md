@@ -21,7 +21,7 @@ A minimalist QR Code generator for Windows. Built because online generators are 
    * *Note: Ensure `QRCoder.dll` stays in the same folder as the EXE.*
 
 ### For Developers (Build from Source)
-1. **[Clone](https://github.com/ThatBlueIris/QRCodeGenerator/issues)** the repository.
+1. **[Clone](https://youtu.be/dQw4w9WgXcQ?si=P2sv8Rep3iHB1zBB)** the repository.
 2. Open `QRCodeGenerator.sln` in **Visual Studio**.
 3. Restore NuGet packages.
 4. Build in **Release** mode.
